@@ -23,5 +23,5 @@ to be included
 
  * CNN_blosum.py
  * data_io_blosum.py
- * Input files are stored in folder Data
+ * Input files are stored in folder ‘Data’
 
