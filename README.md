@@ -16,10 +16,10 @@ to be included
 
 * [Python3](https://www.python.org/)
 * [Keras](https://keras.io/)
-* [Scikit-learn] (https://scikit-learn.org)
 * [NumPy](http://www.numpy.org/) 
+* [Scikit-learn] (https://scikit-learn.org)
 
-## Primary Files
+# Primary Files
 
  * CNN_blosum.py
  * data_io_blosum.py
