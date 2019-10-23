@@ -1,5 +1,5 @@
 #! usr/bin/python
-## CNN model for cancer-specific CDR3 sequence prediction
+## CNN model for cancer-specific sequence prediction
 
 import sys,os
 import numpy as np
