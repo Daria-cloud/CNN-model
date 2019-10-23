@@ -17,7 +17,7 @@ to be included
 * [Python3](https://www.python.org/)
 * [Keras](https://keras.io/)
 * [NumPy](http://www.numpy.org/) 
-* [Scikit-learn] (https://scikit-learn.org)
+* Scikit-learn (https://scikit-learn.org)
 
 # Primary Files
 
